@@ -1,6 +1,8 @@
 jquery-colorramp
 ================
 
+Demo: http://x.sr.unh.edu/jquery-colorramp
+
 jquery-colorramp is a color ramp widget
 
 This client side javascript code allows user to embed a color ramp widget.

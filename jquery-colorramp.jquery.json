@@ -11,6 +11,7 @@
     ],
     "homepage": "https://github.com/collinsp/jquery-colorramp/",
     "download": "https://github.com/collinsp/jquery-colorramp/tarball/master",
+    "demo": "http://x.sr.unh.edu/jquery-colorramp",
     "licenses": [
         {
             "type": "MIT license (MIT)",
